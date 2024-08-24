@@ -1,0 +1,1 @@
+This is the main code used in the project, mainly including the NZ24 area, of course, also includes the drawing code. The codes for the other two areas included in the project are not shown here, and are basically the same as these codes.
